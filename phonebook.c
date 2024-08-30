@@ -33,6 +33,7 @@ int main()
         // Why are the only contact options 1 & 2?
         // Anything else ends the program.
         // Small Change.
+        // Test.
         printf("Enter the number of the contact to be added:\n");
         scanf("%d",&y);
 
